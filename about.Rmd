@@ -8,4 +8,9 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-My name is Michelle Wang......
+This is Michelle Wang.
+
+```{r fig.cap="Note that photo was taken 3 days after my birth"}
+knitr::include_graphics("images/babymichelle.jpg")
+```
+
