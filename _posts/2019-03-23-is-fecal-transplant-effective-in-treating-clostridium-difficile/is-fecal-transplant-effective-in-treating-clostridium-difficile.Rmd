@@ -1,0 +1,96 @@
+---
+title: "Is Fecal Transplant Effective in Treating Clostridium Difficile?"
+description: |
+  A short description of the post.
+author:
+  - name: Michelle Wang
+    url: https://smichellewang.github.io/blog/
+date: 03-23-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Introduction of FMT
+
+Composition of the human gut flora, or microbiome is critical in the maintenance of the immune system and gut homeostasis [1]. The microbiome is made up of microorganisms such as bacteria, viruses and microbes and more than 1,000 species of bacteria reside in the gut [1][2]. The adaptive immune system developed concurrently with the microbiota that consequently created a symbiotic relationship between the two systems [3]. Much nutrient absorption and excretion happen in the gastrointestinal (GI) tract that in turn helps stimulate and regulate the immune system. Therefore, an altered composition of the microorganisms through antibiotic usage can lead to many diseases and autoimmune disorders [3]. This has led to epidemic infections such as Clostridium Difficile (C. Diff) and the use of fecal microbiota transplant (FMT) to potentially restore the gut microbiome.   
+
+## What is Clostridium Difficile?
+
+Clostridium Difficile is a disease that is highly contagious with high numbers of recurrence and cases. It is a bacteria that causes inflammation of the colon that is often caused by frequent antibiotic use [4]. Antibiotics are antimicrobials in which they destroy and prevent the growth of microorganisms. In this process, a portion of healthy bacteria inevitably get killed along with the bad bacteria. When a sufficient number of healthy bacteria is lost, this allows rapid growth of harmful microorganisms which can take over the gut flora if no intervention is made. In the U.S., C.Diff affected about half a million people in 2011 and almost 30,000 deaths within the first month of diagnosis [12]. In 2015, there has been over 17,000 reports of C.Diff from10 states with the elderly population having the highest mortality rate [12]. Symptoms range from a simple diarrhea to becoming a fatal situation [5]. Many people fall into relapse within 7-10 days after antibiotic treatment and once one relapse episode occurs, there is a significantly higher probability of future relapse [4]. Periodic relapses may even turn into a chronic relapse [4]. C.Diff stems from an imbalance of healthy vs harmful bacteria and simultaneous reduction in bacterial diversity from the use of antibiotics [3].   
+
+## Why FMT?
+
+Apart from medication, FMT is used as an alternative treatment for patients who experience frequent relapse even after common initial antibiotic treatment such as Vancomycin and Metronidazole that target bacteria like C. Diff [4]. This treatment has the potential to be more effective than antibiotics. According to the Mayo Clinic, fecal transplants that have been done on campuses in Florida, Arizona, and Minnesota have seen 90-100% success rates without any recurrence of C.Diff [13]. The Fecal Transplant Foundation has also reported the effectiveness of FMT to be over 90% [14]. The use of fecal transplant is due to its ability to re-establish microbial homeostasis and diversity of the gut flora [6]. However, fecal transplant are not yet commonly performed as there is insufficient data from randomized controlled trials and is aesthetically unpleasant [6]. Fecal transplant involves the collection of stool from a donor and inserting it into the gastrointestinal tract of a patient with recurrent C.Diff. Preferred stool is obtained from someone who is physically intimate with the patient such as a spouse, family or relative who has not been exposed to antimicrobial therapy within the last 6 months [7]. Donor’s blood also was screened for hepatitis A, B, and C [4]. Rejection of donor took place if they had taken antibiotics in the past 3 months, on immunosuppressant drugs, chemotherapy, had recent contact with HIV, or history of bowel disease and syndrome [7]. Seven days before transplantation, stool samples will get screened for any potential infectious pathogens before it gets inserted into the ileum or cecum of the patient through colonoscopy or nasogastric tube [7]. The process entails the stool being mixed with saline and blended until a desired consistency is met which was close to malted milk [7]. The 300-700cc stool sample is then aspirated into a syringe and injected into the mid or right colon through the colonoscopy [7]. Infusion of stool conducted by nasogastric intubation would involve injecting 25mL of stool suspension into the stomach and rinsed with sterile saline, with patients immediately returning to regular diets and exercise activities post-procedure [4]. Extending beyond human feces, synthetic stools have been created as a way to fully ensure that infectious pathogens and viruses are nonexistent in the mixture [8].   
+
+## Pros and Cons
+
+As with any treatment, there are advantages and disadvantages associated with its use shown below.
+
+* Advantages	 
+  + Low cost  
+  + Easily accessible  
+  +	Fast improvements (12-24 hr)  
+  +	Breaks the cycle of antimicrobial use  
+  +	Lowers risk of antimicrobial-resistant enteric bacterial strains, allergic reactions  
+  + Lower patient preparation, clinical time, patient inconvenience (nasogastric)  
+  +	Limited adverse effects  
+  + Synthetic stool: exact composition maintained, reproducible, culture more stable, higher patient safety    	
+
+* Disadvantages  
+  + Infectious pathogens  
+  + New autoimmune disorders: Peripheral neuropathy, Rheumatoid arthritis, Sjogren’s Disease, Idiopathic thrombocytopenic purpura (~0.05%)  
+  + Upper GI tract bleeding, peritonitis, enteritis (~0.009%)   
+  + Long term consequences unclear  
+
+[4,7–9]
+
+## Title A
+
+Since Clostridium Difficile tips the balance in composition of the intestinal microbiota and its diversity, the ultimate goal of fecal transplant is to reconstitute the contents of the microbial community in order to restore homeostasis [10]. The exact mechanism of how these treatment improvements are accomplished through fecal transplant is unknown [1]. However, there are proposed mechanisms of how fecal transplant achieves its dramatic restoration of the normal microorganisms. Essentially, the destruction of Clostridium Difficile depends on the abundance in production of antimicrobials that hinder the growth of Clostridium Difficile [1]. It involves healthy and harmful bacteria competing for nutrients. The presence of Firmicutes and Bacteroidetes, the two main groups of bacteria are crucial in the restoration process to outcompete Clostridium Difficile[1]. Lachnospiracae is an important member in microbiota restoration to help suppress the growth Clostridium Difficile [1]. Bacteria that are necessary to overcome Clostridium Difficile are not restricted to these types but include any organism that produces butyrate [1]. Butyrate is a fatty acid that acts as a main energy source for gut cells and regulates the growth of new and dying cells [15].  Diminished levels of Proteobacteria, a major bacterium that is involved in many infections and pathogens, is needed to outcompete the growth of Clostridium Difficile [1]. Specific types of bile acid production can greatly affect the growth of Clostridium Difficile [1]. Primary bile acid production promotes sprouting of Clostridium Difficile spores and secondary bile results from bacterial activity which rose in number after fecal transplant [1]. The function of bile is mainly involved in the absorption of fat and removal of cholesterol from the body. When the required healthy bacteria groups are present and increasing while harmful ones are decreasing, along with the production of secondary bile acids, these components all work together in harmony to effectively re-establish homeostasis.  
+
+## Title B
+
+As recurrences and reports of Clostridium Difficile increases, accounting for almost $5 billion of health care costs in acute care settings alone, fecal transplant may be able to eradicate relapses and prove to be more effective than repeated antibiotic usage [5]. In a systematic review consisting of case series and reports with a total of 317 patients, the average age ranged between 2-83 years [11]. Patients experienced 92% resolution rate, 89% resolution after a single course of treatment, and only 4% relapse. The effectiveness of fecal transplant depended on various factors such as volume of stool, stool donor, and type of diluent used before instillation. A related donor’s stool resulted in higher resolution rates (93%) compared to stool from an unrelated donor (84%) [11]. Stool transplant had greater resolution rates when water was used (98.5%) rather than saline (86%), but it also resulted in twice as much risk of relapse [11]. As more volume of stool was given, resolution rates increased as well [11]. In a case series in Minnesota had 18 patients undergo fecal transplant over the course of a 9 year period with a total of 64 sessions of antimicrobials [4]. Throughout the duration of treatment, all patients experienced resolution of Clostridium Difficile except for one patient who had a single relapse and two patients who died unrelated to fecal transplant [4]. Substantial beneficial effects of fecal transplant were seen as patients experienced improvements within 12-24 hours with a disappearance of C.Diff symptoms [4]. Little to no adverse effects were found in both cases. The study had a 94% success rate with all 16 patients having normal bowel habits after receiving fecal transplant [4]. The ability of curing Clostridium Difficile with synthetic stool was seen in two patients with hyper hostile Clostridium Difficile strain. Stool substitute transplant was given and healthy bowel patterns returned after 2-3 days with no rebound of symptoms after 6 months [8].  
+
+## Title C
+
+Based on the physiology of the complex, interdependent system of the gut flora, cultivating good bacteria is essential in the prevention of Clostridium Difficile. From the vast amounts of patients who experienced recurrent or severe Clostridium Difficile, fecal transplant has shown to be safe and highly effective with limited side effects. Stool substitutes is an alternative strategy that is able to cure Clostridium Difficile. Short term improvements are clear, with more studies needed to test long term consequences. 
+Future research in this area has tremendous potential. Patients often suffered other comorbidities along with Clostridium Difficile which made it difficult to measure the improvements specifically due to fecal transplant. Randomized controlled trials are necessary to solidify and isolate the exact beneficial effects of fecal transplant. Exact mechanism of fecal transplant needs to be elucidated as well identifying more microbes that are involved in the development of diseases and disorders. This will allow treatment options to have the opportunity to target specific microbes involved in the pathogen as well as using good microbes to its advantage to restore function or to kill off harmful microbes. 
+
+## References  
+
+[1]	Kelly CR, Kahn S, Kashyap P, Laine L, Rubin D, Atreja A, et al. Update on Fecal Microbiota Transplantation 2015: Indications, Methodologies, Mechanisms, and Outlook. Gastroenterology 2015;149:223–37. doi:10.1053/J.GASTRO.2015.05.008.  
+[2]	Shreiner AB, Kao JY, Young VB. The gut microbiome in health and in disease. Curr Opin Gastroenterol 2015;31:69–75. doi:10.1097/MOG.0000000000000139. 
+
+[3]	Belkaid Y, Hand TW. Role of the microbiota in immunity and inflammation. Cell 2014;157:121–41. doi:10.1016/j.cell.2014.03.011.  
+
+[4]	Aas J, Gessert CE, Bakken JS. Recurrent Clostridium difficile Colitis: Case Series Involving 18 Patients Treated with Donor Stool Administered via a Nasogastric Tube. Clin Infect Dis 2003;36:580–5. doi:10.1086/367657.  
+
+[5]	Lessa FC, Mu Y, Bamberg WM, Beldavs ZG, Dumyati GK, Dunn JR, et al. Burden of Clostridium difficile Infection in the United States. N Engl J Med 2015;372:825–34. doi:10.1056/NEJMoa1408913.  
+
+[6]	Kelly CP. Fecal Microbiota Transplantation — An Old Therapy Comes of Age n.d.  
+
+[7]	Brandt LJ, Aroniadis OC, Mellow M, Kanatzar A, Kelly C, Park T, et al. Long-Term Follow-Up of Colonoscopic Fecal Microbiota Transplant for Recurrent Clostridium difficile Infection. Am J Gastroenterol 2012;107:1079–87. doi:10.1038/ajg.2012.60.  
+
+[8]	Petrof EO, Gloor GB, Vanner SJ, Weese SJ, Carter D, Daigneault MC, et al. Stool substitute transplant therapy for the eradication of Clostridium difficile infection: “RePOOPulating” the gut. Microbiome 2013;1:3. doi:10.1186/2049-2618-1-3.  
+
+[9]	Smits LP, Bouter KEC, de Vos WM, Borody TJ, Nieuwdorp M. Therapeutic Potential of Fecal Microbiota Transplantation. Gastroenterology 2013;145:946–53. doi:10.1053/J.GASTRO.2013.08.058.  
+
+[10]	Kassam Z, Lee CH, Yuan Y, Hunt RH. Fecal Microbiota Transplantation for Clostridium difficile Infection: Systematic Review and Meta-Analysis. Am J Gastroenterol 2013;108:500–8. doi:10.1038/ajg.2013.59.  
+
+[11]	Gough E, Shaikh H, Manges AR. Systematic Review of Intestinal Microbiota Transplantation (Fecal Bacteriotherapy) for Recurrent Clostridium difficile Infection. Clin Infect Dis 2011;53:994–1002. doi:10.1093/cid/cir632.  
+
+[12]   Healthcare-associated Infections. (2015, February 24). Retrieved February 25, 2018, from
+https://www.cdc.gov/hai/organisms/cdiff/tracking-cdiff.html  
+
+[13]   For Medical Professionals - FMT demonstrates consistently high success rates for      recurrent CDI. (n.d.). Retrieved February 25, 2018, from https://www.mayoclinic.org/medical-professionals/clinical-updates/digestive-diseases/fmt-demonstrates-consistently-high-success-rates-for-recurrent-cdi  
+
+[14]   The Fecal Transplant Foundation. (n.d.). Retrieved February 25, 2018, from       http://thefecaltransplantfoundation.org/what-is-fecal-transplant/  
+
+[15]    The Health Benefits of Butyrate: Meet the Anti-Inflammatory Fat. (2017, January 27). Retrieved March 11, 2018, from https://paleoleap.com/butyrate-anti-inflammatory-fat/  
+
