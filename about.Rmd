@@ -1,9 +1,11 @@
 ---
 title: "Welcome!"
 description: |
-  Some additional details about the blog
+  from a blue baby to a weightlifter
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+My name is Michelle Wang......
