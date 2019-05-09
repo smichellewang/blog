@@ -16,3 +16,4 @@ knitr::include_graphics("images/babymichelle.jpg")
 
 
 test
+test2
