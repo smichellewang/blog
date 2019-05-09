@@ -1,0 +1,17 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to &quot;Plasmapheresis with immunosuppressant drugs can improve neuromuscular function in people with Myasthenia Gravis&quot;",
+    "description": "Welcome to our new blog, &quot;Plasmapheresis with immunosuppressant drugs can improve neuromuscular function in people with Myasthenia Gravis&quot;. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2019-05-08",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-05-08T20:06:26-07:00"
+  }
+]

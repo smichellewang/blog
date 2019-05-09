@@ -1,0 +1,12 @@
+name: "Plasmapheresis with immunosuppressant drugs can improve neuromuscular function in people with Myasthenia Gravis"
+title: "&quot;Plasmapheresis with immunosuppressant drugs can improve neuromuscular function in people with Myasthenia Gravis&quot;"
+description: |
+  &quot;Plasmapheresis with immunosuppressant drugs can improve neuromuscular function in people with Myasthenia Gravis&quot;
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
